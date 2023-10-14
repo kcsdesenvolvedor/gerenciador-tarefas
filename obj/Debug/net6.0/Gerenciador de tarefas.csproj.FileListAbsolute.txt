@@ -1,0 +1,65 @@
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\appsettings.json
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Gerenciador de tarefas.exe
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Gerenciador de tarefas.deps.json
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Gerenciador de tarefas.runtimeconfig.json
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Gerenciador de tarefas.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Gerenciador de tarefas.pdb
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.csproj.AssemblyReference.cache
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.AssemblyInfoInputs.cache
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.AssemblyInfo.cs
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.Gerenciador de tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.build.Gerenciador de tarefas.props
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gerenciador de tarefas.props
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gerenciador de tarefas.props
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\scopedcss\bundle\Gerenciador de tarefas.styles.css
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.csproj.CopyComplete
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\refint\Gerenciador de tarefas.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.pdb
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\Gerenciador de tarefas.genruntimeconfig.cache
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\obj\Debug\net6.0\ref\Gerenciador de tarefas.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kellt\Documents\Projetos\Gerenciador_de_tarefas\Gerenciador de tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
