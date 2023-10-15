@@ -19,6 +19,10 @@ namespace Gerenciador_de_tarefas.Controllers
         public async Task<ActionResult<List<UsuarioModel>>> BuscarTodosUsuarios()
         {
             var usuarios = await _usuarioRepositorio.BuscarTodosUsuarios();
+            if(usuarios == null)
+            {
+                return Ok(new { message = "Ocorreu um erro interno!"});
+            }
             return Ok(usuarios);
         }
 
